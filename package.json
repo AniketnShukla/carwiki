@@ -2,7 +2,7 @@
   "name": "carwiki",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://tomerpacific.github.io/starter-project/", 
+    "homepage": "https://aniketnshukla.github.io/carwiki/", 
    
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
