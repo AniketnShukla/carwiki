@@ -21,7 +21,7 @@ function App() {
       <div className="Header container-fluid">
         <div>
           <div className="Logo">
-          <Link to="/Home">Turbo.</Link>
+          <Link to="/carwiki/Home">Turbo.</Link>
           </div>
         </div>
       <div className="Search">      
@@ -33,7 +33,7 @@ function App() {
 
         <div className="Icons">
         <div><FaShoppingCart color="white" size="25px" /></div>
-        <Link to="/Sign"><div><FaUserCircle color="white" size="25px" /></div></Link>
+        <Link to="/carwiki/Sign"><div><FaUserCircle color="white" size="25px" /></div></Link>
         </div>
 
       </div>
