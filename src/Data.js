@@ -5,7 +5,7 @@ export default {
             _id:"1",
             name:'Super',
             category:'Ferrari',
-            Image:"/images/Product/car1.jpeg",
+            Image:"../public/images/Product/car1.jpeg",
             price:600000,
             brand:'Ferrari',
             rating:4.0,
