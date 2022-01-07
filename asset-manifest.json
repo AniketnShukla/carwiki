@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/carwiki/static/css/main.ddb3237e.css",
-    "main.js": "/carwiki/static/js/main.f0e28cf3.js",
+    "main.css": "/carwiki/static/css/main.7953cf46.css",
+    "main.js": "/carwiki/static/js/main.43074dc2.js",
     "static/media/revicons.eot": "/carwiki/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/car8.jpeg": "/carwiki/static/media/car8.4795fb91e83bd21560f5.jpeg",
     "static/media/revicons.ttf": "/carwiki/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/car4.jpeg": "/carwiki/static/media/car4.68f8760adcfb418cc74b.jpeg",
     "static/media/revicons.woff": "/carwiki/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/carwiki/index.html",
-    "main.ddb3237e.css.map": "/carwiki/static/css/main.ddb3237e.css.map",
-    "main.f0e28cf3.js.map": "/carwiki/static/js/main.f0e28cf3.js.map"
+    "main.7953cf46.css.map": "/carwiki/static/css/main.7953cf46.css.map",
+    "main.43074dc2.js.map": "/carwiki/static/js/main.43074dc2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddb3237e.css",
-    "static/js/main.f0e28cf3.js"
+    "static/css/main.7953cf46.css",
+    "static/js/main.43074dc2.js"
   ]
 }
