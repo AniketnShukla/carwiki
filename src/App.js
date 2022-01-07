@@ -14,12 +14,6 @@ import Muscle from './Screen/Categories/Muscle';
 
 function App() {
 
-  
-
-
-  console.log("a");
-  console.log('AAAAA');
-
 
   return (
  
@@ -61,11 +55,11 @@ function App() {
       <main className="main">
             <div className="content">
             <Routes>
-            <Route path="/" element={<Home/>} />
-            <Route path="/Home" element={<Home/>} />
-            <Route path="/ProductScreen" component={ProductScreen} />
-            <Route path="/Sign" element={<Sign />} />
-            <Route path="/Muscle" element={<Muscle />} />
+            <Route path="/carwiki" element={<Home/>} />
+            <Route path="/carwiki/Home" element={<Home/>} />
+            <Route path="/carwiki/ProductScreen" component={ProductScreen} />
+            <Route path="/carwiki/Sign" element={<Sign />} />
+            <Route path="/carwiki/Muscle" element={<Muscle />} />
             </Routes>
             </div>
       </main>
